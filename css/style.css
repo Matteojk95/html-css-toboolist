@@ -1,0 +1,35 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text_container {
+    margin:auto;
+    background-color: white;
+    height: 640px;
+    width: 730px;
+    border-radius: 6px;
+}
+
+.bottons{
+    padding: 22px 44px;
+}
+
+.pulsante {
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+  }
+
+
+  .task {
+    background-color: azure;
+    color: white;
+ }
+
+ .section {
+    background-color: white;
+    color: beige;
+ }
